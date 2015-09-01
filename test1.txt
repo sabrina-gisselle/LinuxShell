@@ -1,0 +1,12 @@
+ls
+setenv t ~
+printenv
+echo ~
+echo see
+alias tesw set wetr sregt set
+echo nowecho see
+echo nowecho see
+echo nowecho see
+echo nowecho see
+echo nowecho see
+echo now

@@ -1,0 +1,27 @@
+a
+b
+bicmd.h
+bicmd.h~
+helper.c
+helper.c~
+lex.yy.c
+Makefile
+out.txt
+parser.y
+parser.y~
+scanner.l
+scanner.l~
+shell
+shell.c
+shell.c~
+shell.h
+shell.h~
+test1.txt
+test.txt
+test.txt~
+y.output
+y.tab.c
+y.tab.h
+see
+now
+>> >> >> >> 
